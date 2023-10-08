@@ -12,6 +12,7 @@ def BubSort(o_list):
                 number_of_comparisons+=1
             
     return i_list
+
     
 #input check
 Test = False
