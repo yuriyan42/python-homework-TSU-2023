@@ -28,6 +28,6 @@ AnyFunction(1)
 def AnyFunction(t):
     import time
     time.sleep(t)
-    return 5 
+    return 5
 
 AnyFunction(1)
